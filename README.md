@@ -10,7 +10,7 @@ Steps to create github page :
 3. Go to pages section in settings
 4. Set your branch to your main branch
 5. Copy your custom domain
-6. Open a browser and paste the ff "<customdomain>/<repositoryname>/"
+6. Open a browser and paste the ff "customdomain/repositoryname/"
 
 Key takeaways :
 I learned simple HTML and CSS functions as well as how to start a "github page"
